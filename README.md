@@ -12,7 +12,7 @@ I'm a software engineer and create videos based on microsoft stack. If this is s
 - 💬 Ask me about DotNet, DotNet Core & Software design patterns
 
 
-## 📺 Tutorials:
+## Tutorials:
 <!-- youtube videos: Start -->
 - [Software Architecture & Design Pattern](https://www.youtube.com/watch?v=G5yfqUHsOPc)
 - [Api Gateway description](https://www.youtube.com/watch?v=g7k0lh58CRc)
