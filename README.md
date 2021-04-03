@@ -5,13 +5,13 @@ I'm a software engineer and create videos based on microsoft stack. If this is s
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadqasim1985//)
 [![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clevertalker/)
 
-</br></br>
+
 ## About Me:
 - 🔭 I’m currently working on [Bike Stores Management System](https://github.com/qasimshk/BikeStores)
 - 🌱 I’m currently learning cloud and server based implementation of microservices
 - 💬 Ask me about DotNet, DotNet Core & Software design patterns
 
-</br></br>
+
 ## 📺 Tutorials:
 <!-- youtube videos: Start -->
 - [Software Architecture & Design Pattern](https://www.youtube.com/watch?v=G5yfqUHsOPc)
