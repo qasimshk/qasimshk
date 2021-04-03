@@ -1,5 +1,5 @@
 ### Hey👋, I'm Qasim
-I'm a software engineer and create videos based on microsoft stack. If this is something you are interested in then check out my YouTube channel. All project in my videos are open-source and are available on my GitHub.
+I'm a software engineer and create videos based on microsoft stack. If this is something you are interested in then check out my YouTube channel. All projects in my videos are open-source and are available on my GitHub.
 
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCogGW-NRuadwBO12383k18A)
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadqasim1985//)
