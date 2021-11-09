@@ -21,5 +21,5 @@ I'm a software engineer and create videos based on microsoft stack. If this is s
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCogGW-NRuadwBO12383k18A/videos)
 
-## Github State:
+## Github Stats:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qasimshk&show_icons=true&theme=radical)
