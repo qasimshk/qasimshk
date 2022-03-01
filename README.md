@@ -8,6 +8,7 @@ I'm a software engineer and create videos based on microsoft stack. If this is s
 
 ## About Me:
 - 🔭 I’m currently working on [Airline Ticket Management System](https://github.com/qasimshk/AirlineManagementSystem)
+- 🔭 MVC Project [MVC-6.0](https://github.com/qasimshk/MVC-6.0)
 - 🌱 I’m currently learning cloud and server based implementation of microservices
 - 💬 Ask me about DotNet, DotNet Core & Software design patterns
 - 💬 Follow me on [Dev.to](https://dev.to/qasimshk)
