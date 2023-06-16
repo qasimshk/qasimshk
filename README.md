@@ -6,8 +6,9 @@ I'm a software engineer and create videos based on microsoft stack. If this is s
 [![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clevertalker/)
 
 
-## About Me:
-- 🔭 I’m currently working on [Airline Ticket Management System](https://github.com/qasimshk/AirlineManagementSystem)
+## My Work:
+- 🔭 Rest Api, best practices [Customer Service](https://github.com/qasimshk/CustomerService)
+- 🔭 Orchestrator Patter - microservices [Airline Ticket Management System](https://github.com/qasimshk/AirlineManagementSystem)
 - 🔭 MVC Project [MVC-6.0](https://github.com/qasimshk/MVC-6.0)
 - 🌱 I’m currently learning cloud and server based implementation of microservices
 - 💬 Ask me about DotNet, DotNet Core & Software design patterns
