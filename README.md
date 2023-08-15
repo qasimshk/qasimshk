@@ -8,6 +8,7 @@ I'm a software engineer and create videos based on microsoft stack. If this is s
 
 ## My Work:
 - 🔭 Rest Api, best practices [Customer Service](https://github.com/qasimshk/CustomerService)
+- 🔭 EStore distributed application, best practices [EStore](https://github.com/qasimshk/EStore)
 - 🔭 Orchestrator Patter - microservices [Airline Ticket Management System](https://github.com/qasimshk/AirlineManagementSystem)
 - 🔭 MVC Project [MVC-6.0](https://github.com/qasimshk/MVC-6.0)
 - 🌱 I’m currently learning cloud and server based implementation of microservices
