@@ -1,4 +1,4 @@
-### Hey👋, I'm Qasim
+### Hey👋, I'm Qasim <div align = 'right'>![](https://komarev.com/ghpvc/?username=qasimshk&color=blue)</div>
 I'm a software engineer and create videos based on Microsoft stack. If this is something you are interested in then check out my YouTube channel. All projects in my videos are open-source and are available on my GitHub.
 
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCogGW-NRuadwBO12383k18A)
