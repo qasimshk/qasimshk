@@ -2,7 +2,7 @@
 I'm a software engineer and create videos based on Microsoft stack. If this is something you are interested in then check out my YouTube channel. All projects in my videos are open-source and are available on my GitHub.
 
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCogGW-NRuadwBO12383k18A)
-[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadqasim1985//)
+[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadqasim1985/)
 [![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clevertalker/)
 
 
@@ -13,9 +13,9 @@ I'm a software engineer and create videos based on Microsoft stack. If this is s
 - 🔭 Asset Management, best practices [Asset Management](https://github.com/qasimshk/AssetManagement)
 - 🔭 Orchestrator Patter - microservices [Airline Ticket Management System](https://github.com/qasimshk/AirlineManagementSystem)
 - 🔭 MVC Project [MVC-6.0](https://github.com/qasimshk/MVC-6.0)
-- 🌱 I’m currently learning cloud and server-based implementation of microservices
-- 💬 Ask me about DotNet, DotNet Core & Software design patterns
-- 💬 Follow me on [Dev.to](https://dev.to/qasimshk)
+- 🌱 I’m currently working on cloud and server-based implementation of microservices
+- 💬 <b>Ask me about:</b> .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD
+- 💬 <b>Contact me:</b> on [LinkedIn](https://www.linkedin.com/in/muhammadqasim1985/)
 
 
 ## Tutorials:
