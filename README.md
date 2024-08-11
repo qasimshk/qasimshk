@@ -7,7 +7,8 @@ I'm a software engineer and create videos based on Microsoft stack. If this is s
 
 ## My Work:
 - 🔭 Digital artificial intelligence system [A.I](https://github.com/qasimshk/A.I)
-- 🔭 EStore distributed application, best practices [EStore](https://github.com/qasimshk/EStore)
+- 🔭 EStore Frontend, best practices [Website](https://github.com/qasimshk/EStore-Web)
+- 🔭 EStore distributed application, best practices [Service](https://github.com/qasimshk/EStore)
 - 🔭 Rest Api, best practices [Customer Service](https://github.com/qasimshk/CustomerService)
 - 🔭 Asset Management, best practices [Asset Management](https://github.com/qasimshk/AssetManagement)
 - 🔭 Orchestrator Patter - microservices [Airline Ticket Management System](https://github.com/qasimshk/AirlineManagementSystem)
