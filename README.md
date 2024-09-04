@@ -2,9 +2,6 @@
 I'm a software engineer and create videos based on Microsoft stack. If this is something you are interested in then check out my YouTube channel. All projects in my videos are open-source and are available on my GitHub.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadqasim1985/)
-[![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clevertalker/)
-
-
 
 ## My Work:
 - 🔭 EStore distributed application, best practices [EStore Service](https://github.com/qasimshk/EStore)
