@@ -1,7 +1,7 @@
-### Hey👋, I'm Qasim <div align = 'right'>![](https://komarev.com/ghpvc/?username=qasimshk&color=blue)</div>
-I'm a software engineer and create videos based on Microsoft stack. If this is something you are interested in then check out my YouTube channel. All projects in my videos are open-source and are available on my GitHub.
+### Hey👋, I'm Qasim 
+Commercially aware Lead Engineer with a proven ability to elevate engineering teams, drive delivery excellence, and design scalable cloud-native platforms. Known for leading multi-squad cloud migrations, improving engineering practices across organisations, and shaping technical direction while maintaining the highest standards of quality and reliability.
 
-[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadqasim1985/)
+I combine hands-on technical expertise with strong people leadership, mentoring engineers, improving delivery flow, optimising CI/CD pipelines, and collaborating with stakeholders to ensure predictable delivery and impactful outcomes.
 
 ## My Work:
 - 🔭 EStore distributed application, best practices [EStore Service](https://github.com/qasimshk/EStore)
@@ -16,6 +16,15 @@ I'm a software engineer and create videos based on Microsoft stack. If this is s
 - 💬 <b>Ask me about:</b> .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD
 - 💬 <b>Contact me:</b> on [LinkedIn](https://www.linkedin.com/in/muhammadqasim1985/)
 
+## Key Leadership Capabilities 
+- Leading multi-disciplinary engineering teams
+- Coaching and mentoring engineers across levels
+- Delivery ownership & programme leadership
+- Stakeholder and product collaboration
+- Engineering process improvement
+- Risk management & delivery predictability
+- Building high-performing engineering culture
+- Driving architectural and technical decision-making
 
 ## Tutorials:
 <!-- youtube videos: Start -->
